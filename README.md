@@ -1,2 +1,3 @@
 # Games-Development
-Module covering 2D games development using tile maps in Java
+2D games development project utilising animations, tile maps, sprites and multiple levels.
+Written in Java.
